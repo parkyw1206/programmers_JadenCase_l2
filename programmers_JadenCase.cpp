@@ -1,3 +1,12 @@
+/************************************************************
+ *  name : Youngwoo Park
+ *  date : 09-28-2020
+ *  level: l2
+ *  problem source: programmers
+ *  lang: C++
+ *  skill: tolower and toupper
+ * *********************************************************/
+
 #include <string>
 #include <vector>
 
